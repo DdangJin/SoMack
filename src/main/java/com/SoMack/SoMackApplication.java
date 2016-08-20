@@ -8,5 +8,6 @@ public class SoMackApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SoMackApplication.class, args);
+		// Hi!
 	}
 }
